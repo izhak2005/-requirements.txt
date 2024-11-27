@@ -1,0 +1,6 @@
+flask==3.0.0
+smtplib3==0.0.1
+email-validator==2.1.0
+python-dotenv==1.0.0
+flask-session==0.5.0
+pyinstaller==6.3.0
